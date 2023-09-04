@@ -1,3 +1,14 @@
 <!DOCTYPE html>
 <html lang="no">
 <head>
+    <meta charset="UTF-8">
+    <title>Website</title>
+</head>
+<body>
+    <h1>Innovation Camp</h1>
+    <h2>Task 1</h2>
+        <p>TEKST</p>
+
+<a href="Page B">Go to the next page</a>
+</body>
+</html>
