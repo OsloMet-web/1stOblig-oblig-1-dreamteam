@@ -5,10 +5,13 @@
     <title>Website</title>
 </head>
 <body>
-    <h1>Innovation Camp</h1>
-    <h2>Task 1</h2>
-        <p>innovation camp</p>
+    <h1> Innovation Camp </h1>
+    <h2> Task 1</h2>
+       <p>Vår løsning for å effektivisere og forenkle reservasjoner av enkelt sitteplasser, lukkede kontorer og større møterom i et allerede eksisterende arbeidslandskap, vil være via en “booking”-app. Enten som en selvstendig app eller som en tilleggsfunksjon i en allerede eksisterende ansatt-app. I nåtidens fleksible arbeidshverdag vil produktivitet og kreativitet settes i fokus ved å gjøre reservasjonsprosessen ukomplisert og brukervennlig.
+        For å tydeliggjøre plassenes tilgjengelighet vil man kunne følge signallysene plassert på hvert enkelt bord, og skanne plassen “opptatt” med sitt personlige nøkkelkort ved et spontant besøk.
+        </p> 
 
+        <p>Denne appen er lett tilgjengelig for alle og gjør det enkelt å booke plassen man ønsker å ha, man slipper derfor å «fysisk» sjekke tilgjengeligheten. Her unngår man også enkle konflikter, som; dobbeltbookinger eller spørsmål om tilgjengeligheten av plassen eller stedet. Dette skaper mer fleksibilitet og trygghet til hverdagen. I tillegg til dette gir appen muligheten til å kunne se reservasjonene og tilgjengeligheten for flere måneder fremover, samtidig som den bidrar til å ta hensyn til personvern og sikkerhet. Kundene vil derfor ikke se hvem som har booket plassen eller noe annen form informasjon relatert til dette. Via denne appen, har man også muligheten til å bli kjent med andre som også jobber på ved din arbeidsplass. Dette er med på å bygge relasjoner i arbeidsmiljøet og å styrke samarbeid enda mer! For ulike firmaer, er dette også sjansen til å bidra til mer teambuilding.</p>
 <a href="Page B">Go to the next page</a>
 </body>
 </html>
